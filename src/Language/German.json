@@ -1,0 +1,18 @@
+{
+    "Welcome": "Hallo willkommen zurück User",
+    "Home":"Heim",
+    "About":"Um",
+    "Login":"Anmeldung",
+    "Wallet":"Geldbörse",
+    "Logout":"Ausloggen",
+    "Why":"Warum Krypto",
+
+    "Symbol":"Symbol",
+    "Name":"Name",
+    "Price":"Preis",
+    "Number":"Nummer",
+
+    "BuyHeading":"Sie können Kryptowährung sicher kaufen",
+    "HeadText":"Krypto, das an einer Börse oder in einer Brieftasche aufbewahrt wird, ist nicht FDIC-versichert wie Geld auf der Bank. Stellen Sie sicher, dass Sie Ihre Krypto auf einer Plattform handeln und aufbewahren, die robuste Sicherheitsmaßnahmen bietet – einschließlich der Aufbewahrung einer beträchtlichen Menge an Beständen in einem eigenen Cold Storage und einer Zwei-Faktor-Authentifizierung für Benutzer."
+
+}

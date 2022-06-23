@@ -1,0 +1,17 @@
+{
+    "Welcome": "hola bienvenido de nuevo User",
+    "Home":"Hogar",
+    "About":"Sobre",
+    "Login":"Acceso",
+    "Wallet":"Cartera",
+    "Logout":"Cerrar sesión",
+    "Why":"Por qué cripto",
+
+    "Symbol":"Símbolo",
+    "Name":"Nombre",
+    "Price":"Precio",
+    "Number":"Número",
+
+    "BuyHeading":"Puedes comprar criptomonedas de forma segura",
+    "HeadText":"Las criptomonedas que se mantienen en un intercambio o en una billetera no están aseguradas por la FDIC como el dinero en el banco. Asegúrese de comerciar y mantener su criptografía en una plataforma que ofrezca medidas de seguridad sólidas, incluido el mantenimiento de una cantidad significativa de existencias en su propio almacenamiento en frío y autenticación de dos factores para los usuarios."
+  }

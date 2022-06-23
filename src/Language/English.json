@@ -1,0 +1,18 @@
+{
+    "Welcome": "Hello welcome back User",
+    "Home":"Home",
+    "About":"About",
+    "Login":"Login",
+    "Wallet":"Wallet",
+    "Logout":"Logout",
+    "Why":"Why Crypto",
+
+    "Symbol":"Symbol",
+    "Name":"Name",
+    "Price":"Price",
+    "Number":"Number",
+
+    "BuyHeading":"You can buy cryptocurrency safely",
+    "HeadText":"Crypto held on an exchange or in a wallet is not FDIC-insured like money in the bank. Make sure you trade and hold your crypto on a platform that offers robust security measures — including keeping a significant amount of holdings in its own cold storage and two-factor authentication for users."
+
+}

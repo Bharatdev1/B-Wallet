@@ -1,0 +1,18 @@
+{
+    "Welcome": "Ciao benvenuto nuevo User",
+    "Home":"Casa",
+    "About":"Di",
+    "Login":"Login",
+    "Wallet":"Portafoglio",
+    "Logout":"Disconnettersi",
+    "Why":"Perché criptovalute",
+
+    "Symbol":"Simbolo",
+    "Name":"Nome",
+    "Price":"Prezzo",
+    "Number":"Numero",
+
+    "BuyHeading":"Puoi acquistare criptovaluta in sicurezza",
+    "HeadText":"Le criptovalute conservate in uno scambio o in un portafoglio non sono assicurate dalla FDIC come i soldi in banca. Assicurati di scambiare e mantenere la tua criptovaluta su una piattaforma che offre solide misure di sicurezza, incluso il mantenimento di una quantità significativa di partecipazioni nella propria cella frigorifera e l'autenticazione a due fattori per gli utenti."
+
+}
