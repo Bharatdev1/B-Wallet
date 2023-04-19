@@ -3,7 +3,7 @@
 ## Available Scripts
 I am still working on this application
 
-### `npm install`
+### "npm install"
 npm install or npm i 
 
 ### `npm start`
